@@ -1,6 +1,2 @@
-### Verkefni 3 - 20% 
-Einstaklingsverkefni
+### Verkefni 3
 
----
-
-# Væntanlegt!
