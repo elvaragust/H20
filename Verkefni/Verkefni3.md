@@ -1,4 +1,6 @@
-### Verkefni 1 - 10% 
+### Verkefni 3 - 20% 
 Einstaklingsverkefni
 
-# Væntanlegt, í vinnslu
+---
+
+# Væntanlegt!
