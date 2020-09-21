@@ -15,7 +15,7 @@ Tími: 3 vikur
 
 #### 3.1. Arduino og Raspberry Pi (1%)
   1. Hver er munurinn á Arduino Uno og Raspberry Pi, nefndu helstu atriði?
-  1. Hvenær og afhverju getur það verið gagnlegt að tengja Arduino og Raspberry Pi saman? Komdu með dæmi.
+  1. Hvenær og afhverju getur það verið gagnlegt að tengja Arduino og Raspberry Pi saman?
   
 #### 3.2 Serial tenging með usb, Arduino til RPi (2%)
 Fylgdu tutorial: [How to Connect and Interface a Raspberry Pi With an Arduino](https://maker.pro/raspberry-pi/tutorial/how-to-connect-and-interface-raspberry-pi-with-arduino)
