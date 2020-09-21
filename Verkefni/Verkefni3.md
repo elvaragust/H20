@@ -19,7 +19,7 @@ Tími: 3 vikur
 #### 3.2 Serial tenging, Arduino til RPi (2%)
 Fylgdu tutorial: [How to Connect and Interface a Raspberry Pi With an Arduino](https://maker.pro/raspberry-pi/tutorial/how-to-connect-and-interface-raspberry-pi-with-arduino)
   - Láttu Arduino senda strenginn “Hello from Arduino” til Raspberry Pi. Raspberry Pi við móttöku prentar út strenginn og lætur LED blikka.
-  - **Ath** `if` skilar aldrei `True` Breyttu kóðanum í:
+  - **Ath** `if` skilar aldrei `True` . Hér er lagfærður kóði:
   
     ```
     while True:
