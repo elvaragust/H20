@@ -16,7 +16,7 @@ Tími: 3 vikur
   1. Hver er munurinn á Arduino Uno og Raspberry Pi, nefndu helstu atriði?
   1. Hvenær og afhverju getur það verið gagnlegt að tengja Arduino og Raspberry Pi saman? Komdu með dæmi.
   
-#### 3.2 Serial tenging, Arduino til RPi (2%)
+#### 3.2 Serial tenging með usb, Arduino til RPi (2%)
 Fylgdu tutorial: [How to Connect and Interface a Raspberry Pi With an Arduino](https://maker.pro/raspberry-pi/tutorial/how-to-connect-and-interface-raspberry-pi-with-arduino)
   - Láttu Arduino senda strenginn “Hello from Arduino” til Raspberry Pi. Raspberry Pi við móttöku prentar út strenginn og lætur LED blikka.
   - **Ath** Laga þarf kóðann í tutorialnum `if` skilar ekki `True`. Hér er lagfærður kóði með decode() og strip(): 
@@ -31,7 +31,7 @@ Fylgdu tutorial: [How to Connect and Interface a Raspberry Pi With an Arduino](h
           blink(11)
     ```
 
-#### 3.2 Serial tenging, RPi til Arduino (2%)
+#### 3.3 Serial tenging með usb, RPi til Arduino (2%)
 Fylgdu tutorial: [Connect Your Raspberry Pi and Arduino Uno!](https://www.instructables.com/id/Connect-Your-Raspberry-Pi-and-Arduino-Uno/)
   
   - Skrifaðu og keyrðu Arduino kóðann í Arduino IDE í Raspberry Pi.
