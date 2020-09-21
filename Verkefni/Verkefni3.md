@@ -19,13 +19,13 @@ Tími: 3 vikur
 #### 3.2 Serial tenging, Arduino til RPi (2%)
 Fylgdu tutorial: [How to Connect and Interface a Raspberry Pi With an Arduino](https://maker.pro/raspberry-pi/tutorial/how-to-connect-and-interface-raspberry-pi-with-arduino)
   - Láttu Arduino senda strenginn “Hello from Arduino” til Raspberry Pi. Raspberry Pi við móttöku prentar út strenginn og lætur LED blikka.
-  - **Ath** `if` skilar aldrei `True` . Hér er lagfærður kóði með decode() og strip(): 
+  - **Ath** Laga þarf kóðann í tutorialnum `if` skilar ekki `True`. Hér er lagfærður kóði með decode() og strip(): 
   
     ```
     while True:
 
       read_ser=ser.readline()
-      msg = read_ser.decode('utf-8') # decode message, lka hægt að nota bytes.decode(read_ser)
+      msg = read_ser.decode('utf-8') # To convert byte strings to Unicode, líka hægt að nota bytes.decode(read_ser)
       print(msg) 
       if(msg.strip()=="Hello From Arduino!"):
           blink(11)
@@ -35,7 +35,8 @@ Fylgdu tutorial: [How to Connect and Interface a Raspberry Pi With an Arduino](h
 Fylgdu tutorial: [Connect Your Raspberry Pi and Arduino Uno!](https://www.instructables.com/id/Connect-Your-Raspberry-Pi-and-Arduino-Uno/)
   
   - Skrifaðu og keyrðu Arduino kóðann í Arduino IDE í Raspberry Pi.
-  - **Ath** Það þarf að breyta streng í bytes til að kóði virki, notaðu `str.encode()` til að breyta Unicode í byte streng.
+  - **Ath** Notaðu `str.encode()` til að breyta Unicode streng í bytes til að kóði virki.
+  
 ---
 
 ### Fleiri verkefni væntanleg!
