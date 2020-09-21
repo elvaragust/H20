@@ -9,7 +9,7 @@ Tími: 3 vikur
 
 - [Raspberry Pi Arduino Serial Communication – Everything You Need To Know](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/)
 - [pySerial documentation](https://pythonhosted.org/pyserial/)
-- [Python 3 Unicode and Byte Strings](https://blog.feabhas.com/2019/02/python-3-unicode-and-byte-strings/#:~:text=To%20convert%20byte%20strings%20to%20Unicode%20use%20the%20bytes.,than%20UTF%2D8%20is%20required.)
+- [Python 3 Unicode and Byte Strings](https://blog.feabhas.com/2019/02/python-3-unicode-and-byte-strings/)
 
 ---
 
