@@ -1,4 +1,4 @@
-## Verkefni 3 - (20%) _drög_
+# Verkefni 3 - (20%) _drög_
 
 Einstaklingsverkefni<br>
 Tími: 3 vikur
@@ -26,7 +26,7 @@ Fylgdu tutorial: [How to Connect and Interface a Raspberry Pi With an Arduino](h
           blink(11)
     ```
 
-#### Bjargir
+**Bjargir:**
 
 - [Raspberry Pi Arduino Serial Communication – Everything You Need To Know](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/)
 - [pySerial documentation](https://pythonhosted.org/pyserial/)
@@ -40,6 +40,7 @@ Fylgdu tutorial: [Connect Your Raspberry Pi and Arduino Uno!](https://www.instru
   - Skrifaðu og keyrðu Arduino kóðann í Arduino IDE í Raspberry Pi.
   - **Ath** Notaðu `str.encode()` til að breyta Unicode streng í bytes til að kóði virki.
 
+---
 
 #### 3.4 Bluetooth tenging, RPi til snjallsíma (2%)
 Fylgdu tutorial: [Connect Your Raspberry Pi and Smartphone via bluetooth !](https://bluedot.readthedocs.io/en/latest/gettingstarted.html)
@@ -68,7 +69,7 @@ Fylgdu tutorial: [Connect Your Raspberry Pi and Smartphone via bluetooth !](http
 
 ---
 
-### Námsmat og skil
+## Námsmat og skil
 
 Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
 Skilaðu á Innu vefslóð á **Github wiki** vefsíðu (private) sem inniheldur:
