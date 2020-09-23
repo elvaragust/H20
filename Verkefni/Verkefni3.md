@@ -7,8 +7,14 @@ Tími: 3 vikur
 
 #### 3.1. Arduino og Raspberry Pi (1%)
   1. Hver er munurinn á Arduino Uno og Raspberry Pi, nefndu helstu atriði?
-  1. Hvenær og afhverju getur það verið gagnlegt að tengja Arduino og Raspberry Pi saman?
-
+  ##  rasberry pi er tölva og getur runnað mörg forrit á meðan arduino er microcontroller og getur bara runnað eitt forrit í einu.
+  ##  rasberry pi er mikið dýrara heldur en arduino
+  ##  það er létt fyrir rasberry pi að tengjast við netið með ethernet,usb eða þráðlaust
+  ##  rasberry pi er með 4 usb port til að tengjast við ýmis tæki en arduino er bara með eitt usb sem er fyrir að tengjast við tölvuna
+  ##  það er mikið léttara að frya rasberry pi heldur en arduino og það er yfir allt bara öruggara
+  
+  2. Hvenær og afhverju getur það verið gagnlegt að tengja Arduino og Raspberry Pi saman?
+  ## arduino er með lélegt user interface og lítið proccesing power en það er betra mep öðrum hlutum eins og skynjara og myndavélar þannig þú getur notað arduino til að tengjast við hardwear en notað svo rasberry pi til að processa og kannski nota web server til að live streama t.d
 ---
 
 #### 3.2 Serial tenging með usb, Arduino til RPi (2%)
