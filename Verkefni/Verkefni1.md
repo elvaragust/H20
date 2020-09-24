@@ -20,6 +20,6 @@ Einstaklingsverkefni
 
 ### Námsmat
 
-Gefið er fullt eða ekkert fyrir hvern lið.
+Fyrir hvern lið: Fullt fyrir fullnægjandi útfærslu, hálft ef lausn er ábótavant og ekkert ef lausn er stórlega ábótavant eða vantar.
 Munnlegt mat og yfirferð í tíma.
 
