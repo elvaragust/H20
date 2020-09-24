@@ -10,7 +10,7 @@ Einstaklingsverkefni
    - Tengdu RPi við wifi
    - Gerðu viðeigandi stillingar, upppfærslur osfrv. skv leiðbeiningum.
 5. (3%) SSH með Raspberry Pi [RPi tengingar](https://github.com/VESM3/H20/wiki/RPi-tengingar)
-   - Settu upp RPi e. remote með headerless uppsetningu (án skjá)
+   - Settu upp RPi e. remote með e. headless uppsetningu (án skjá)
    - Stilltu Raspberry Pi þannig að þú getur tengst honum með SSH 
    - Skrifaðu í terminal og prentaðu út "Halló heimur" strenginn í python með nano ritlinum
 6. (3%) Settu upp VNC (Virtual Network Computing) Sjá [RPi tengingar](https://github.com/VESM3/H20/wiki/RPi-tengingar)
