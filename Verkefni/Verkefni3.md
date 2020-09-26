@@ -51,6 +51,7 @@ Munið að fylgja leiðbeiningum vel (ath lesa hverja síðu og fara í NEXT ne�
   
   - Verkefnið er að rasberryPI prentar út "Hello World" þegar þið smellið á Blue Dot í síma ykkar (gera while true lúppu svo þið getið 
     smellt aftur og aftur.
+  - [Blue Dot API](https://bluedot.readthedocs.io/en/latest/dotapi.html#module-bluedot)
   
 ---
 
@@ -61,7 +62,6 @@ Fylgdu tutorial: [Bluetooth and BlueDot with LED !](https://bluedot.readthedocs.
     og viðeigandi viðnám (reiknið) og tengja við rasberryPi (ath gera while true lúppu svo þið getið 
     látið led blikka þegar smellt er á BlueDot). 
   -  Í tutorial er verið að vinna með [GPIOZero](https://www.raspberrypi.org/documentation/usage/gpio/python/) 
-  - [Blue Dot API](https://bluedot.readthedocs.io/en/latest/dotapi.html#module-bluedot)
   
 ---
 
