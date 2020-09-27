@@ -37,7 +37,7 @@ Fylgdu tutorial: [How to Connect and Interface a Raspberry Pi With an Arduino](h
 
 ---
 
-#### 3.3 Serial tenging, RPi til Arduino (3%)
+#### 3.3 Serial tenging, RPi til Arduino (2%)
 Fylgdu tutorial: [Connect Your Raspberry Pi and Arduino Uno!](https://www.instructables.com/id/Connect-Your-Raspberry-Pi-and-Arduino-Uno/)
   
   - Skrifaðu og keyrðu Arduino kóðann í Arduino IDE í Raspberry Pi.
