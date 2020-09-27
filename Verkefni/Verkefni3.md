@@ -72,6 +72,14 @@ Fylgdu tutorial: [Bluetooth and BlueDot using remote camera !](https://bluedot.r
   
 ---
 
+#### 3.7 Bluetooth og Serial tenging (3%)
+
+- Notaðu BlueDot með RaspberryPi til að kveikja á RGB LED peru sem er tengd við Arduino. 
+- Það á að vera hægt að velja um 4 mismunandi liti með BlueDot.
+- Getur þú látið BlueDot virka með fleiri litum?
+
+---
+
 ## Fleiri verkefni væntanleg!
 
 ---
