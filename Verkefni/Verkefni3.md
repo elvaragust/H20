@@ -59,7 +59,7 @@ Munið að fylgja leiðbeiningum vel (ath lesa hverja síðu og fara í NEXT ne�
 Fylgdu tutorial: [Bluetooth and BlueDot with LED !](https://bluedot.readthedocs.io/en/latest/recipes.html#flash-an-led)
   
   - Verkefnið er að rasberryPI kveikir á LED þegar smelt er á Blue Dot í snjallsíma :-) sem þýðir að þið verðið að tengja eina LED peru í breadboard
-    og viðeigandi viðnám (reiknið) og tengja við rasberryPi (ath gera while true lúppu svo þið getið 
+    og viðeigandi viðnám (reiknið) og tengja við RaspberryPi (ath gera while true lúppu svo þið getið 
     látið led blikka þegar smellt er á BlueDot). 
   -  Unnið er með [GPIOZero](https://www.raspberrypi.org/documentation/usage/gpio/python/) sem er þegar sett upp í RPi OS (default)
   
