@@ -80,7 +80,22 @@ Fylgdu tutorial: [Bluetooth and BlueDot using remote camera !](https://bluedot.r
 
 ---
 
-## Fleiri verkefni væntanleg!
+#### 3.8 SPI (1%)
+Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI Interface](https://www.analog.com/en/analog-dialogue/articles/introduction-to-spi-interface.html) og [SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all) og svaraðu eftirfarandi spurningum:
+ 
+  1. Hvað er SPI? Hverjir eru helstu kostir og ókostir?
+  1. Hvenær er betra að nota SPI fremur en Serial Ports (TX og RX)?
+  1. Hver er helsti munurinn á SPI og I2C og hvenær myndir þú frekar nota SPI?
+
+---
+
+#### 3.9 Þráðlaus samskipti tveggja Arduino Uno með notkun nRF24L01. (2%)
+  - Fylgdu tutorial: [How nRF24L01+ Wireless Module Works & Interface with Arduino](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) 
+  - **Ath** tengdu nRF24L01 við 3.3V output. Ekki tengja í 5V, það mun skemma nRF24L01
+
+---
+
+#### 3.10 væntanlegt!
 
 ---
 
