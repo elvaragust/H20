@@ -92,6 +92,7 @@ Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI I
 #### 3.9 Þráðlaus samskipti tveggja Arduino Uno með notkun nRF24L01. (2%)
   - Fylgdu tutorial: [How nRF24L01+ Wireless Module Works & Interface with Arduino](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) 
   - **Ath** tengdu nRF24L01 við 3.3V output. Ekki tengja í 5V, það mun skemma nRF24L01
+  
 
 ---
 
